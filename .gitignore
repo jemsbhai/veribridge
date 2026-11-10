@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Rust
+target/
+
+# Node / TypeScript
+node_modules/
+
+# General
+.DS_Store

@@ -1,0 +1,6 @@
+[package]
+name = "veribridge"
+version = "0.1.0"
+edition = "2021"
+description = "Bidirectional JSON-LD-Ex / CBOR-LD-Ex bridge preserving veracity annotations exactly across encodings"
+license = "MIT"

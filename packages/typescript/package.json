@@ -1,0 +1,1 @@
+{"description":"Bidirectional JSON-LD-Ex / CBOR-LD-Ex bridge preserving veracity annotations exactly across encodings","license":"MIT","main":"dist/index.js","name":"veribridge","scripts":{"build":"tsc"},"types":"dist/index.d.ts","version":"0.1.0"}
